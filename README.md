@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🚀 Projects
 
-<!--
-**Manohareddy1308/Manohareddy1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **C + Python Project**
 
-Here are some ideas to get you started:
+* Voice control system using C and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Workout Tracker Website**
+
+* Built using HTML, CSS, JavaScript
+* Includes dashboard, tracking, and user features
+
+🔹 **DBMS Project (Chroma Database)**
+
+* Python-based database project using vector storage
+
+🔹 **Joda Time (Java Project)**
+
+* Developed using Java
+* Focuses on date and time handling concepts
+* Demonstrates object-oriented programming concepts
+
+
+## 🛠️ Skills
+
+* C Programming
+* Python
+* Java
+* HTML, CSS, JavaScript
+* Git & GitHub
